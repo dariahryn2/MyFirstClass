@@ -1,0 +1,15 @@
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\bin\Debug\net9.0\MyFirstClass.exe
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\bin\Debug\net9.0\MyFirstClass.deps.json
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\bin\Debug\net9.0\MyFirstClass.runtimeconfig.json
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\bin\Debug\net9.0\MyFirstClass.dll
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\bin\Debug\net9.0\MyFirstClass.pdb
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\obj\Debug\net9.0\MyFirstClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\obj\Debug\net9.0\MyFirstClass.AssemblyInfoInputs.cache
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\obj\Debug\net9.0\MyFirstClass.AssemblyInfo.cs
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\obj\Debug\net9.0\MyFirstClass.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\obj\Debug\net9.0\MyFirstClass.sourcelink.json
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\obj\Debug\net9.0\MyFirstClass.dll
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\obj\Debug\net9.0\refint\MyFirstClass.dll
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\obj\Debug\net9.0\MyFirstClass.pdb
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\obj\Debug\net9.0\MyFirstClass.genruntimeconfig.cache
+C:\Users\Dasha\Documents\GitHub\MyFirstClass\MyFirstClass\MyFirstClass\obj\Debug\net9.0\ref\MyFirstClass.dll
